@@ -1,0 +1,17 @@
+.App {
+  width: 300px;
+  border: 3px solid green;
+  padding: 50px;
+  margin: 100px 400px;
+}
+
+p{
+  text-align: center;
+  color:rgb(253, 251, 251);
+  }
+
+h{
+  color: aquamarine;
+  margin: 200px 200px ;
+
+}
