@@ -109,7 +109,7 @@ class App extends React.Component{
 
 
   // sendName2() {
-  //   this.setState({name : this.state.name2})
+  //   this.setState({name : this.state.name2})dfdff
   // }
 
 
